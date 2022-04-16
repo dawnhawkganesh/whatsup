@@ -1,0 +1,7 @@
+Ganesh Bharathi
+1. Code to open the  application
+2. Code to preview the front end visual
+3. code to add contacts
+4. Code to open a new chat 
+5. Code to type the msg 
+6. Code to send the msg

@@ -6,3 +6,5 @@ Ganesh Bharathi
 5. Code to type the msg 
 6. Code to send the msg
 7. Code to hide the last seen.
+
+Successfully I have made the changes to the text file that I have uploaded to my repository

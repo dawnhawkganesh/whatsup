@@ -7,4 +7,8 @@ Ganesh Bharathi
 6. Code to send the msg
 7. Code to hide the last seen.
 
-Successfully I have made the changes to the text file that I have uploaded to my repository
+8. Successfully I have made the changes to the text file that I have uploaded to my repository
+
+9. Adding the video call feature.
+
+10. Adding the audio call feature.
